@@ -15,6 +15,8 @@ Given below are my contributions to the project.
 
 - [Link to My Code Contributions on tP Code Dashboard](https://nus-cs2103-ay2324s1.github.io/tp-dashboard/?search=choonyan02&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=&groupSelect=groupByRepos&breakdown=true&checkedFileTypes=docs~functional-code~test-code&since=2023-09-22&tabOpen=true&tabType=authorship&tabAuthor=Choonyan02&tabRepo=AY2324S1-CS2103T-T12-1%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs&authorshipIsBinaryFileTypeChecked=false&authorshipIsIgnoredFilesChecked=false)
 
+- Test Coverage
+  - Covered Attendance and Participation classes.
 
 - New Features
   - Attendance
@@ -47,7 +49,8 @@ Given below are my contributions to the project.
 
 ### Contributions to Team-Based Tasks
 
-- to be added
+- Contributed some ideas for features to implement
+  - Attendance, Participation, Tutorial Groupings
 
 ### Review and Mentoring Contributions
 
